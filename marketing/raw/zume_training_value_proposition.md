@@ -1,6 +1,6 @@
 # The Zume Training Value Proposition
 
-**Zúme Training transforms ordinary Christians into skilled disciple makers through a proven, multiplication-focused methodology that has generated over 1 million training sessions globally and documented exponential church growth across four generations.**
+**Zúme Training transforms ordinary Christians into skilled disciple makers through a proven, multiplication-focused methodology that has generated thousands of trainings globally and documented exponential church growth across four generations.**
 
 This comprehensive value proposition reveals why Zume Training stands apart in the discipleship landscape and delivers measurable transformation for participants seeking to fulfill the Great Commission through scalable, reproducible methods.
 
@@ -14,7 +14,7 @@ The self-replicating design means trained participants immediately possess the t
 
 ## Skills-focused methodology produces measurable multiplication outcomes
 
-Rather than knowledge accumulation, Zume Training centers on **competency development through practical application**. Each session follows the proven MAWL training cycle (Model, Assist, Watch, Leave), ensuring participants gain hands-on experience with tools like the 3/3 group meeting pattern, SOAPS Bible study method, and systematic evangelism approaches.
+Rather than knowledge accumulation, Zume Training centers on **competency development through practical application**. Each session follows a simple video concept or tool with occasional practice activities, ensuring participants gain hands-on experience with tools like the 3/3 group meeting pattern, SOAPS Bible study method, and systematic evangelism approaches.
 
 **Documented case studies demonstrate remarkable multiplication results**: One couple leading Zume training over 18 months generated 102 new groups with 612 active participants and 53 baptisms across four generations. This represents a 306x multiplication rate from their initial investment, with 47% of groups maintaining long-term sustainability. Such outcomes emerge because Zume trains participants to become **movement catalysts rather than just faithful church members**.
 
