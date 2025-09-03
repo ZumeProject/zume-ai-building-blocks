@@ -6,13 +6,11 @@
 
 Zúme Coaching provides the missing link between learning biblical principles and actually multiplying disciples in real life. While the 20-hour Zúme Training equips you with proven tools and methods, the coaching relationship ensures you successfully implement these principles to create sustainable multiplication movements in your unique context.
 
-## Product Overview
+## Service Overview
 
 ### What Is Zúme Coaching?
 
 Zúme Coaching is a **free, volunteer-driven mentorship program** that connects disciple-makers with experienced practitioners who have successfully implemented Zúme principles in their own contexts. Our network of volunteer coaches are driven by passion for loving God, loving others, and obeying the Great Commission, providing personalized guidance to help you overcome barriers and make meaningful progress in your disciple-making journey.
-
-Unlike traditional discipleship programs that focus on knowledge transfer, Zúme Coaching operates on the proven **"Model-Assist-Watch-Leave" training cycle**. This approach takes disciples from new to a skill or discipline and grows their competence until they no longer need coaching in that skill, ensuring sustainable multiplication rather than dependency.
 
 ### Core Components
 
@@ -36,31 +34,9 @@ Unlike traditional discipleship programs that focus on knowledge transfer, Zúme
 - The mark of completion is when the learner has passed on the skill successfully to the fourth generation
 - Support for transitioning from learner to trainer/coach yourself
 
-## Unique Value Differentiators
 
-### 1. **Athletic-Level Coaching Philosophy**
 
-Just as every athletic sport, especially at higher levels, uses coaching and even Olympic athletes have coaches, disciple-making requires skilled mentorship to reach full potential. Zúme Coaching applies proven coaching methodologies to spiritual multiplication, recognizing that knowledge alone doesn't create competence.
 
-### 2. **Experiential Learning Approach**
-
-While most discipleship programs focus on information transfer, Zúme Coaching prioritizes experiential learning. In every session, the goal is fruitful action. The best outcome will be a changed lifestyle and experience of increased power in your faith. Coaches guide you through real-world application, ensuring principles translate into actual disciple-making results.
-
-### 3. **Cultural and Contextual Adaptation**
-
-Recognizing that disciple-making looks different across cultures and contexts, Zúme Coaching provides culturally relevant guidance. Coaches understand local challenges, opportunities, and effective approaches within your specific environment, whether urban or rural, Western or Global South, traditional church or marketplace ministry.
-
-### 4. **Volunteer-Driven Authenticity**
-
-Unlike paid coaching programs with potential conflicts of interest, Zúme coaches are not paid but are driven by passion for loving God, loving others, and obeying the Great Commission. This creates authentic relationships focused on kingdom impact rather than financial gain.
-
-### 5. **Systematic Competency Development**
-
-Using the biblical **Model-Assist-Watch-Leave** framework, coaching provides structured progression:
-- **Model Phase**: Coach demonstrates disciple-making practices in real contexts
-- **Assist Phase**: Hand-holding coaching where mentor takes active directive role until learner understands basics
-- **Watch Phase**: Longest phase involving indirect contact to develop full competence, continuing until learner successfully trains fourth generation
-- **Leave Phase**: Graduation when learner becomes peer of mentor with potential for ongoing peer mentoring
 
 ## Target User Benefits
 
@@ -100,42 +76,7 @@ Using the biblical **Model-Assist-Watch-Leave** framework, coaching provides str
 - **Time Optimization**: Implement disciple-making practices that work within busy professional schedules
 - **Influence Expansion**: Use marketplace platforms and resources for kingdom advancement
 
-## Coaching Process and Structure
 
-### Initial Connection Phase (Weeks 1-2)
-
-**Relationship Establishment**
-- Coach matching based on language, geography, and ministry context preferences
-- Initial assessment of disciple-making experience, goals, and specific challenges
-- Establishment of communication preferences and meeting schedules
-- Setting of specific, measurable outcomes for coaching relationship
-
-### Skill Development Phase (Months 1-6)
-
-**Active Implementation Support**
-- Regular coaching sessions (typically weekly or bi-weekly)
-- Real-time guidance during actual disciple-making activities
-- Obstacle identification and problem-solving
-- Practice sessions for challenging concepts or conversations
-- Progress tracking and competency assessment
-
-### Multiplication Phase (Months 6-12)
-
-**Movement Creation Focus**
-- Support for training others in disciple-making
-- Guidance on creating and leading disciple-making groups
-- Help with developing local training materials and approaches
-- Mentorship in coaching others
-- Network development and movement building
-
-### Graduation and Peer Mentoring (Month 12+)
-
-**Independence and Multiplication**
-- Transition from learner to peer relationship
-- Potential recruitment as coach for others
-- Ongoing peer mentoring and mutual encouragement
-- Integration into broader Zúme coaching network
-- Support for advanced movement leadership challenges
 
 ## Coaching Methodologies and Tools
 
@@ -159,6 +100,7 @@ Coaches use peer mentoring group formats that follow Jesus' example of ministry 
 
 Coaching includes systematic competency assessment to ensure real skill development rather than just knowledge acquisition. Progress is measured by actual disciple-making fruit: conversations initiated, relationships developed, disciples trained, groups started, and leaders raised up.
 
+
 ## Success Metrics and Outcomes
 
 ### Individual Transformation Indicators
@@ -181,6 +123,7 @@ Coaching includes systematic competency assessment to ensure real skill developm
 - **Coach Development**: Progression to becoming Zúme coach for others
 - **Movement Leadership**: Active role in broader disciple-making movements
 - **Cultural Transformation**: Measurable impact on families, communities, and institutions
+
 
 ## Technology and Accessibility
 
@@ -213,21 +156,10 @@ Since Zúme is not run by an organization, there is no formal statement of faith
 
 The volunteer coach model ensures sustainability and authenticity while maintaining accessibility. Coaches participate because of personal conviction and kingdom passion rather than financial motivation, creating genuine mentoring relationships focused on multiplication impact.
 
-## Getting Started
 
-### Immediate Next Steps
-
-1. **Complete Zúme Training**: Basic 20-hour training provides foundation for coaching relationship
-2. **Request Coach Connection**: Use connection system to be matched with appropriate coach
-3. **Initial Conversation**: Participate in discovery call to establish relationship and goals
-4. **Begin Implementation**: Start applying Zúme principles with ongoing coaching support
 
 ### Long-Term Vision
 
 The vision is comparable to yeast working through entire dough, spreading basic Kingdom tools into neighborhoods worldwide. Through coaching relationships, Zúme aims to create a global network of competent disciple-makers who can sustain and expand multiplication movements in every cultural context.
 
 **Ultimate Goal**: To train at least one disciple maker for every 5,000 people in North America and one disciple maker for every 50,000 people globally, with trained disciple makers starting at least 2 simple multiplying churches for every 5,000 people.
-
----
-
-*Ready to move from learning about disciple-making to actually multiplying disciples? Connect with a Zúme coach today and join the global movement of ordinary believers creating extraordinary kingdom impact.*
