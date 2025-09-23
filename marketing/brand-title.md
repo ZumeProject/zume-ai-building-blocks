@@ -1,6 +1,6 @@
 # Zúme Brand Title Translations
 
-This document defines how to say "Zúme" and "Zúme training" in all supported languages for the Mark Denfile brand.
+This document defines how to say "Zúme" and "Zúme training" in all supported languages.
 
 ## Brand Name Translations
 
